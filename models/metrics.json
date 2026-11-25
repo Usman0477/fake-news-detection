@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.9987212276214834,
+  "precision": 0.9981154299175501,
+  "recall": 0.9995281906109932,
+  "f1_score": 0.9988213107024988,
+  "test_size": 7820,
+  "total_articles": 39100,
+  "label_meaning": {
+    "0": "Fake",
+    "1": "Real"
+  }
+}
